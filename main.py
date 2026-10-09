@@ -3,6 +3,6 @@ def greeting(name):
     
     
 def byebye(name):
-    print(f'Пока {name}')
+    print(f'До свидания {name}')
     
     
